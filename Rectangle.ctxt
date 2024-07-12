@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\ Create\ a\ clss\ named\ Rectangle\ with\ 2\ data\ members\ 'length'\ &\ 'breadth'\r\n\ &\ 2\ methods\ to\ print\ area\ &\ perimeter.\r\n\ Let\ class\ Square\ inherit\ Rectangle\r\n\ Print\ the\ area\ &\ perimeter\ of\ a\ rectangle\ &\ square\ \r\n
+comment1.params=length\ breadth
+comment1.target=Rectangle(int,\ int)
+comment2.params=
+comment2.target=int\ area()
+comment3.params=
+comment3.target=int\ perimeter()
+numComments=4

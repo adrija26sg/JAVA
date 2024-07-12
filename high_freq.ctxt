@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=high_freq
+comment1.params=arr\ n
+comment1.target=int\ sortByFreq(int[],\ int)
+comment2.params=arr\ t
+comment2.target=void\ printSort(int[],\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

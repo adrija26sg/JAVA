@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=towhanoi
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=void\ toh(int)
+comment2.text=Function\ to\ push\ disks\ into\ stack
+comment3.params=n\ a\ b\ c
+comment3.target=void\ move(int,\ int,\ int,\ int)
+comment3.text=Recursive\ Function\ to\ move\ disks
+comment4.params=
+comment4.target=void\ display()
+comment4.text=Function\ to\ display
+numComments=5

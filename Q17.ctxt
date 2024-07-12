@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Q17
+comment1.params=c
+comment1.target=Q17(int)
+comment2.params=ag
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=int\ remove()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
